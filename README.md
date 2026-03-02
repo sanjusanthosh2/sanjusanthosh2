@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🎓 Master’s in Information Systems with Computing <br><br>🏢 Previously worked at IBM as a DevOps Engineer for 4 years<br><br>🧠 Skilled in CI/CD Pipelines, Azure Cloud Infrastructure, Terraform, and Kubernetes<br><br>💬 Ask me about DevOps automation, GitOps, or Infrastructure as Code<br><br>📫 Reach me at: sanjusanthosh0@gmail.com<br><br>⚡ Fun fact: I enjoy automating repetitive tasks to save time and reduce errors 🚀
+ 🎓 Master’s in Information Systems with Computing <br><br>🏢 Previously worked at IBM as a DevOps Engineer for 4+ years<br><br>🧠 Skilled in CI/CD Pipelines, Azure Cloud Infrastructure, Terraform, and Kubernetes<br><br>💬 Ask me about DevOps automation, GitOps, or Infrastructure as Code<br><br>📫 Reach me at: sanjusanthosh0@gmail.com<br><br>⚡ Fun fact: I enjoy automating repetitive tasks to save time and reduce errors 🚀
 
 
 ## 🌐 Socials:
